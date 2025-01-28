@@ -1,0 +1,51 @@
+Book ID,Title,Author,Genre,Price,Stock,Rating
+BK-1001,The Silent Patient,Alex Michaelides,Fiction,15.99,20,4.7
+BK-1002,Where the Crawdads Sing,Delia Owens,Mystery,12.99,15,4.6
+BK-1003,Becoming,Michelle Obama,Biography,18.50,30,4.8
+BK-1004,Educated,Tara Westover,Non-Fiction,13.99,10,4.7
+BK-1005,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,10.99,25,4.5
+BK-1006,Atomic Habits,James Clear,Self-Help,11.50,35,4.9
+BK-1007,Circe,Madeline Miller,Fantasy,16.00,18,4.6
+BK-1008,Little Fires Everywhere,Celeste Ng,Fiction,14.75,12,4.4
+BK-1009,The Night Circus,Erin Morgenstern,Fantasy,13.50,20,4.3
+BK-1010,The Alchemist,Paulo Coelho,Classics,12.00,22,4.7
+BK-1011,1984,George Orwell,Classics,10.99,28,4.8
+BK-1012,To Kill a Mockingbird,Harper Lee,Classics,11.99,15,4.9
+BK-1013,Pride and Prejudice,Jane Austen,Romance,9.50,18,4.5
+BK-1014,Dune,Frank Herbert,Science Fiction,17.50,12,4.6
+BK-1015,The Catcher in the Rye,J.D. Salinger,Classics,10.00,20,4.3
+BK-1016,Brave New World,Aldous Huxley,Science Fiction,12.50,25,4.4
+BK-1017,The Great Gatsby,F. Scott Fitzgerald,Classics,10.75,18,4.2
+BK-1018,Moby Dick,Herman Melville,Classics,11.50,12,4.1
+BK-1019,War and Peace,Leo Tolstoy,Classics,19.99,8,4.5
+BK-1020,The Road,Cormac McCarthy,Fiction,13.00,15,4.4
+BK-1021,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,20.99,12,4.7
+BK-1022,Homo Deus,Yuval Noah Harari,Non-Fiction,21.99,10,4.6
+BK-1023,The Power of Habit,Charles Duhigg,Self-Help,12.99,22,4.5
+BK-1024,The Four Agreements,Don Miguel Ruiz,Self-Help,9.99,20,4.4
+BK-1025,The Book Thief,Markus Zusak,Historical Fiction,15.50,25,4.8
+BK-1026,A Man Called Ove,Fredrik Backman,Fiction,14.99,18,4.7
+BK-1027,Eleanor Oliphant Is Completely Fine,Gail Honeyman,Fiction,13.99,15,4.6
+BK-1028,Goodnight Moon,Margaret Wise Brown,Children's Fiction,7.99,30,4.8
+BK-1029,Charlotte's Web,E.B. White,Children's Fiction,8.99,28,4.9
+BK-1030,The Hunger Games,Suzanne Collins,Fantasy,12.50,25,4.8
+BK-1031,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,10.99,35,4.9
+BK-1032,The Lord of the Rings,J.R.R. Tolkien,Fantasy,25.00,10,4.9
+BK-1033,The Hobbit,J.R.R. Tolkien,Fantasy,14.99,20,4.8
+BK-1034,The Fault in Our Stars,John Green,Romance,11.50,15,4.6
+BK-1035,Me Before You,Jojo Moyes,Romance,10.50,25,4.7
+BK-1036,Divergent,Veronica Roth,Science Fiction,9.99,20,4.5
+BK-1037,Twilight,Stephenie Meyer,Fantasy,8.99,15,4.4
+BK-1038,Fifty Shades of Grey,E.L. James,Romance,10.00,18,4.3
+BK-1039,Outlander,Diana Gabaldon,Historical Fiction,15.50,10,4.6
+BK-1040,The Shining,Stephen King,Horror,13.99,12,4.7
+BK-1041,It,Stephen King,Horror,14.50,10,4.6
+BK-1042,Misery,Stephen King,Horror,12.99,15,4.5
+BK-1043,Pet Sematary,Stephen King,Horror,11.50,20,4.4
+BK-1044,The Stand,Stephen King,Horror,18.99,8,4.7
+BK-1045,Dracula,Bram Stoker,Classics,9.99,12,4.6
+BK-1046,Frankenstein,Mary Shelley,Classics,10.99,15,4.5
+BK-1047,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,12.99,18,4.7
+BK-1048,Gone Girl,Gillian Flynn,Mystery,11.50,20,4.6
+BK-1049,Big Little Lies,Liane Moriarty,Mystery,13.00,10,4.5
+BK-1050,Sharp Objects,Gillian Flynn,Mystery,10.99,25,4.4
