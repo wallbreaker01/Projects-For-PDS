@@ -1,4 +1,4 @@
-# Yellow Marker Detector using YOLOv5
+# Two Pin and Three PIn PLug Detector using YOLOv5
 
 This project demonstrates how to train a custom YOLOv5 model to detect 2-pin and 3-pin plugs. The notebook guides you through the entire process, from dataset preparation to model training and evaluation.
 
