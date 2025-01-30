@@ -87,9 +87,12 @@ Finally, we run test inferences to see the model in action.
 
 ## Sample Results
 
-![](./assets/output0.jpeg)
-![](./assets/output1.jpeg)
-![](./assets/output2.jpeg)
+![](./Images/1.jpeg)
+![](./Images/2.jpeg)
+![](./Images/3.jpeg)
+![](./Images/4.jpeg)
+![](./Images/5.jpeg)
+![](./Images/6.jpeg)
 
 ## Conclusion
 
